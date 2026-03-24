@@ -1,0 +1,13 @@
+.next/
+node_modules/
+.env
+/dist/
+/build/
+/coverage/
+/.eslintcache
+/.next/
+/.cache/
+*.log
+*.tmp
+# Local development files
+*.local
